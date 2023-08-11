@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.prname {
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: blue;
+    margin-left: 100px;
+}
+
+.prprice {
+    margin-left: 100px;
+    padding-top: 20px;
+}
+
+
+.caruselimg {
+    width: 100%;
+    height: 600px;
+}
+
+.aqua {
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: blue;
+    font-family: "Sofia", sans-serif;
+
+}
+
+#logform {
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.backto {
+    width: 40% !important;
+    margin: 0 auto !important;
+}
+
+
+#logform input,
+button {
+    margin: 5px 0;
+}
+
+#regform {
+    width: 20%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+#regform input,
+button {
+    margin: 5px 0;
+}
+
+.username {
+    margin: 0 auto;
+}
+
+.userimage {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+
+.add_prod {
+    width: 20%;
+    height: 300px;
+    margin: 0 auto;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+
+.tit {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tit h1,
+h2 {
+    margin: 20px 0;
+}
+
+.description-edit {
+    display: none;
+}
+
+
+.nkar2 {
+    width: 200px;
+    height: 100px;
+    border-radius: 5%;
+}
+
+
+.warning {
+    width: 100%;
+    text-align: center;
+    color: purple;
+}
+
+.addform {
+    width: 40%;
+    padding-top: 200px;
+    margin: 0 auto;
+}
+
+.backbtn {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forgetform {
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.passform {
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+
+.col {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+
+}
+
+.change {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pay {
+    background: white;
+    color: navy;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    padding: 20px;
+    width: 80%;
+    height: 200px;
+    border-radius: 5px;
+
+}
+
+.paybtn {
+    border: none;
+    color: white;
+    background: navy;
+    border: navy;
+    padding: 0 10px;
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+.nkar {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.bank {
+    padding-top: 250px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+.footer {
+    height: 70px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgb(100, 100, 255);
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 0px 80px;
+    justify-content: space-between;
+    font-style: italic;
+}
+
+.footer ul {
+    width: 30%;
+    font-size: 20px;
+    display: flex;
+    align-items: space-around;
+    justify-content: space-around;
+}
+
+
+
+.my {
+    margin: 100px;
+}
+
+
+.prpagecont {
+    margin-bottom: 150px;
+}
