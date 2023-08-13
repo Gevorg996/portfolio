@@ -1,1 +1,2 @@
-# portfolio
+# portfolio full stack developer
+* This code provides a simple online store that allows users to register on the website and then post a visible announcement for all visitors of the website. In addition, the customer can order a product, find out about the payment method, choosing between cash on delivery or credit card, and later recive an email about the order status. We use a mobile payment system for accepting card payments, utilizing the capibilities of a PayPal payment system for the provided conveniences.
